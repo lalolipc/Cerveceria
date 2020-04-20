@@ -11,7 +11,7 @@ tp 2, Programacion avanzada.
 - Si productor no produce, Consumidor queda a la espera.
 - Cuando los productos sean 0, dejara de consumir.
 
-##2) Bloques Synchronized, porque deben usarlos?
+## 2) Bloques Synchronized, porque deben usarlos?
 -El metodo synchronized evita que varios hilos interfieran entre si
 
 Para Thread simplemente se usa el metodo start en una instancia del ojeto.
